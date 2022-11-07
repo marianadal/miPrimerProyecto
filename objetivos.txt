@@ -1,0 +1,3 @@
+Objetivo1: Aprender GIT
+Objetivo2: Aprender a programar una web
+Objetivo3: Aprender a trabajar en equipos grandes
